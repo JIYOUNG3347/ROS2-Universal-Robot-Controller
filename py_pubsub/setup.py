@@ -20,6 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+        'my_publisher = py_pubsub.my_publisher_node:main',
         'my_subscriber = py_pubsub.my_subscriber_node:main'
         ],
     },
