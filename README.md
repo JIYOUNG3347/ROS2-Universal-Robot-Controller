@@ -19,4 +19,4 @@ https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver.git
    ```
    
 ### rqt_graph
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5a3c941-3608-484b-b704-55786d8adc6a/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/77952928/229437353-059903d6-cbe1-44d9-acac-f00ddcbc7bb1.png)
